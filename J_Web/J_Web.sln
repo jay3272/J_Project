@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "J_Web", "J_Web.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestReact", "..\TestReact\TestReact.csproj", "{4740D2D6-A1FD-478F-95D1-89C8E57AAC86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestReactJS", "..\TestReactJS\TestReactJS.csproj", "{4A13258F-DC97-4A18-8E79-B10A105B1216}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4740D2D6-A1FD-478F-95D1-89C8E57AAC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4740D2D6-A1FD-478F-95D1-89C8E57AAC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4740D2D6-A1FD-478F-95D1-89C8E57AAC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A13258F-DC97-4A18-8E79-B10A105B1216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A13258F-DC97-4A18-8E79-B10A105B1216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A13258F-DC97-4A18-8E79-B10A105B1216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A13258F-DC97-4A18-8E79-B10A105B1216}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
